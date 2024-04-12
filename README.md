@@ -4,4 +4,4 @@ Integrating artificial intelligence (AI) with fitness training has revolutionize
 
 # Video Demo
 
-https://github.com/SwarajSingh3005/Aivisiontrain-Artificial-Intelligence-Fitness-Trainer/assets/114939556/acb08295-d36e-4929-aa6f-11c6811139d5
+https://github.com/SwarajSingh3005/Aivisiontrain-Artificial-Intelligence-Fitness-Trainer/assets/114939556/31f8fd7f-eb8d-4b31-acc0-dc37eacca13a
